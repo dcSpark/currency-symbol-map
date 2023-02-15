@@ -1,6 +1,6 @@
 {
-  "name": "currency-symbol-map",
-  "version": "5.1.0",
+  "name": "@dcspark/currency-symbol-map",
+  "version": "5.1.1",
   "description": "A function to lookup the currency symbol for a given currency code",
   "main": "currency-symbol-map.js",
   "scripts": {
@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:bengourley/currency-symbol-map.git"
+    "url": "git@github.com:dcspark/currency-symbol-map.git"
   },
   "keywords": [
     "currency",
     "symbol"
   ],
-  "author": "Ben Gourley",
+  "author": "dcSpark",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/bengourley/currency-symbol-map/issues"
+    "url": "https://github.com/dcspark/currency-symbol-map/issues"
   },
   "devDependencies": {
     "standard": "^16.0.3",
